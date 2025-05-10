@@ -1,0 +1,22 @@
+*{
+    background-color: rgb(252, 238, 221);
+}
+#container{
+    text-align: center;
+    font-size: 3em;
+}
+
+.buttons{
+    font-size: 1em;
+    padding: 10px;
+    background-color: rgb(182, 186, 245);
+    border: none;
+    border-radius: 10px;
+}
+
+.heading{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size: 60px;
+
+}
